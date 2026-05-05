@@ -1,7 +1,7 @@
 # uts-pemrograman-web-2-60324070
 
 ## Nama dan NIM
-- Nama : Fian Anugerah
+- Nama : Muhammad Naafian Anugerah
 - NIM  : 60324070
 
 ## Deskripsi Singkat Aplikasi
